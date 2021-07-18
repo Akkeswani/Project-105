@@ -1,0 +1,19 @@
+body{ 
+    background-color: 
+    violet;
+   }
+    .heading{ 
+      font-size: 22px; width: 100%; 
+    } 
+    #camera{ 
+      border: 2px dashed black; 
+      width: 350px; 
+      height: 300px; 
+    } 
+    .name_of_objects{ 
+      color: rgb(255, 8, 0);
+     } 
+     #result_object_accuracy,#result_object_name 
+     {
+        color:rgb(252, 5, 252); 
+      }
